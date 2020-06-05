@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="et_num1_String">First number</string>
+    <string name="et_num2_String">Second number</string>
+    <string name="cb_addition_String">Add</string>
+    <string name="cb_subtraction_String">Subtract</string>
+    <string name="btn_calculate">Calculate</string>
+    <string name="tv_result_String">Result</string>
+</resources>
